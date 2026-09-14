@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# 脚本输出产物
+videos/
+output/
+*.log
+results.json
